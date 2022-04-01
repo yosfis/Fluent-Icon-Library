@@ -1,2 +1,4 @@
 # Fluent-Icon-Library
-My library of fluent icons for programs that don't fit in with windows 11's fluent design language.
+This is my library of icons that I have modified to fit in with the Windows 11's design language. 
+
+Feel free to add, remove, modify and use any of these icons.
